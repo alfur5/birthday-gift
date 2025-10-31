@@ -1,0 +1,31 @@
+body{
+    
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    margin: 0;
+    
+}
+.space4{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #82a5ca;
+    font-weight: 900;
+}
+.span{
+    border-bottom: 4px solid;
+}
+#logo{
+    width: 120px;
+    
+}
+.space3{
+    background-image: url("space324.gif" );
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+#title{
+    text-shadow: 0 0 5px black;
+}
